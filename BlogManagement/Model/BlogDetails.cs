@@ -15,6 +15,7 @@ namespace BlogManagement.Model
         public DateTime UpdatedAt { get; set; }
     }
 
+
     public class NullBlogDetails : BlogDetails
     {
         public NullBlogDetails()

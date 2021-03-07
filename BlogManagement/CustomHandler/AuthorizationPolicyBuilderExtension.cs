@@ -13,5 +13,7 @@ namespace BlogManagement.CustomHandler
             builder.AddRequirements(new CustomUserRequireClaim(claimType));
             return builder;
         }
+
+
     }
 }

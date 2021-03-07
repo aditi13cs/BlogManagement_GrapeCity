@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aditi.jain3\\Desktop\\STUDY\\BlogManagement\\BlogManagement\\BlogManagement.csproj": {}
+    "C:\\Users\\aditi.jain3\\Desktop\\STUDY\\BlogManagementClone\\BlogManagement\\BlogManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aditi.jain3\\Desktop\\STUDY\\BlogManagement\\BlogManagement\\BlogManagement.csproj": {
+    "C:\\Users\\aditi.jain3\\Desktop\\STUDY\\BlogManagementClone\\BlogManagement\\BlogManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aditi.jain3\\Desktop\\STUDY\\BlogManagement\\BlogManagement\\BlogManagement.csproj",
+        "projectUniqueName": "C:\\Users\\aditi.jain3\\Desktop\\STUDY\\BlogManagementClone\\BlogManagement\\BlogManagement.csproj",
         "projectName": "BlogManagement",
-        "projectPath": "C:\\Users\\aditi.jain3\\Desktop\\STUDY\\BlogManagement\\BlogManagement\\BlogManagement.csproj",
+        "projectPath": "C:\\Users\\aditi.jain3\\Desktop\\STUDY\\BlogManagementClone\\BlogManagement\\BlogManagement.csproj",
         "packagesPath": "C:\\Users\\aditi.jain3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aditi.jain3\\Desktop\\STUDY\\BlogManagement\\BlogManagement\\obj\\",
+        "outputPath": "C:\\Users\\aditi.jain3\\Desktop\\STUDY\\BlogManagementClone\\BlogManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
