@@ -26,7 +26,6 @@ C:\Users\aditi.jain3\Desktop\STUDY\BlogManagementClone\BlogManagement\bin\Debug\
 C:\Users\aditi.jain3\Desktop\STUDY\BlogManagementClone\BlogManagement\bin\Debug\netcoreapp3.1\BlogManagement.runtimeconfig.dev.json
 C:\Users\aditi.jain3\Desktop\STUDY\BlogManagementClone\BlogManagement\bin\Debug\netcoreapp3.1\BlogManagement.dll
 C:\Users\aditi.jain3\Desktop\STUDY\BlogManagementClone\BlogManagement\bin\Debug\netcoreapp3.1\BlogManagement.pdb
-C:\Users\aditi.jain3\Desktop\STUDY\BlogManagementClone\BlogManagement\obj\Debug\netcoreapp3.1\BlogManagement.csprojAssemblyReference.cache
 C:\Users\aditi.jain3\Desktop\STUDY\BlogManagementClone\BlogManagement\obj\Debug\netcoreapp3.1\BlogManagement.AssemblyInfoInputs.cache
 C:\Users\aditi.jain3\Desktop\STUDY\BlogManagementClone\BlogManagement\obj\Debug\netcoreapp3.1\BlogManagement.AssemblyInfo.cs
 C:\Users\aditi.jain3\Desktop\STUDY\BlogManagementClone\BlogManagement\obj\Debug\netcoreapp3.1\BlogManagement.csproj.CoreCompileInputs.cache
